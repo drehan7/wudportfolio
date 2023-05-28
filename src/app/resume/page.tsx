@@ -1,9 +1,9 @@
 import Layout from "@/components/Layout";
 
-export default function Soemthing() {
-    return(
+export default function Resume() {
+    return (
         <Layout>
-            <h1>Testing</h1>
+            <h1>Resume page</h1>
         </Layout>
     )
 }

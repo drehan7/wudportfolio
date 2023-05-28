@@ -30,3 +30,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+footer {
+    font-size: 0.8rem;
+    color: red;
+    font-weight: 250;
+}

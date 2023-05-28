@@ -1,5 +1,9 @@
+import Layout from "@/components/Layout";
+
 export default function Projects() {
     return (
-        <h1>Francesca is hot as fuck</h1>
+        <Layout>
+        <h1>Projects</h1>
+        </Layout>
     )
 }
